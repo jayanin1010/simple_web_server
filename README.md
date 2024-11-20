@@ -121,7 +121,8 @@ Testing the webserver.
 
 
 # OUTPUT:
-![alt text](WEBSERVER.png)
+![WEBSERVER](https://github.com/user-attachments/assets/48229da5-d799-4282-8b39-a1463e4d3b30)
+
 
 
 # RESULT:

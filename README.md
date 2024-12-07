@@ -127,6 +127,9 @@ Testing the webserver.
 
 ![WEBSERVER](https://github.com/user-attachments/assets/c1a0af74-abf7-412b-bd0e-7b3e74665ca2)
 
+![image](https://github.com/user-attachments/assets/2c261644-acca-4aef-be7b-3f2cb799e829)
+
+
 
 
 # RESULT:
